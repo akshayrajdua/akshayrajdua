@@ -18,4 +18,4 @@ React, TypeScript, Swift/SwiftUI, Figma, Claude Code, Cursor.
 ## Find me
 
 - Portfolio: [ardua.in](https://ardua.in)
-- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/akshayrajdua/)
