@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Akshay
 
-<!--
-**akshayrajdua/akshayrajdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HCI student at the University of Maryland (M.S., May 2026). I design and ship AI-driven products fast.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PVC v2** — visual prompt engineering canvas. [Repository](https://github.com/akshayrajdua/pvc-v2)
+- **UNRTN** — iOS app. SwiftUI + Supabase + Claude API.
+
+## Background
+
+Three years across fintech (Pine Labs), enterprise software (Stardog), smart infrastructure (Siemens), and consulting (PwC). UMD iConsultancy capstone with Stardog.
+
+## Stack I work in
+
+React, TypeScript, Swift/SwiftUI, Figma, Claude Code, Cursor.
+
+## Find me
+
+- Portfolio: [ardua.in](https://ardua.in)
+- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
